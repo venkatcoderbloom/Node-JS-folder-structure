@@ -1,0 +1,19 @@
+{
+  "name": "node-js-folder-structure",
+  "version": "1.0.0",
+  "description": "Node Folder structure",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatcoderbloom/Node-JS-folder-structure.git"
+  },
+  "author": "Venkatesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatcoderbloom/Node-JS-folder-structure/issues"
+  },
+  "homepage": "https://github.com/venkatcoderbloom/Node-JS-folder-structure#readme"
+}
